@@ -9,4 +9,6 @@ The [tidemark](https://github.com/iinkfish/tidemark) orchestrator is a scraper s
 npm install
 ```
 4. Run the scrapers (all included scrapers should work and produce an output)
-```npm start```
+```
+npm start
+```
