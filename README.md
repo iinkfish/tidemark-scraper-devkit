@@ -12,3 +12,6 @@ npm install
 ```
 npm start
 ```
+## TODO
+1. Add input checks to test if all config parameters are passed
+2. Add output checking
